@@ -22,8 +22,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Davi Sakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davixyzz&show_icons=true&theme=radical)  
-![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Davixyzz&layout=compact&theme=radical)
+![Estatísticas do GitHub do Davi Sakai](https://github-readme-stats.vercel.app/api?username=Davixyzz&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Davixyzz&layout=compact&theme=radical)
 
 ---
 
