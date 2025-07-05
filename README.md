@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-🎯 Desenvolvedor fullstack com 4 anos de experiência prática em automação, bots e manipulação de dados em larga escala.
+🎯 Desenvolvedor web fullstack com 4 anos de experiência prática em automação, bots e manipulação de dados em larga escala.
 
 🛠️ Especialista em PHP, JavaScript, Node.js, HTML, CSS, Bootstrap, Linux, SQLite e MySQL.
 
@@ -20,10 +20,9 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Linguagens mais usadas
 
-![Estatísticas do GitHub do Davi Sakai](https://github-readme-stats.vercel.app/api?username=Davixyzz&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Davixyzz&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Davixyzz&theme=radical)
 
 ---
 
@@ -31,8 +30,4 @@
 
 📧 kakashispam7@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/davisakai)  
-🐦 [Twitter](https://twitter.com/davisakai)  
-
----
-
-**Salve a malandragem!**
+📸 [Instagram](https://instagram.com/davi.xyzz)
