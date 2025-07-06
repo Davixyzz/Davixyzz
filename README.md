@@ -45,25 +45,27 @@ Sou o Davi Sakai, um desenvolvedor que começou na programação aos 14 anos e d
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Estatísticas & Troféus do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davixyzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davixyzz&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davixyzz&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Davixyzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davixyzz&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davixyzz&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Davixyzz&theme=tokyonight&no-frame=true&row=1&column=6" />
+    </td>
+  </tr>
+</table>
 
----
-
-### 🏆 Troféus do GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Davixyzz&theme=tokyonight&no-frame=true&row=2&column=3" />
-</p>
-
----
 
 ### ✍️ Citação aleatória de dev
 
