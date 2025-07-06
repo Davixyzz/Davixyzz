@@ -74,7 +74,7 @@ Sou o Davi Sakai, um desenvolvedor que começou na programação aos 14 anos e d
 ### 📌 Repositórios em destaque
 
 - 📁 [**bot-whatsapp-baileys**](https://github.com/davisakai/bot-whatsapp-baileys) – Bot completo com comandos como `/cpf`, `/email1`, `/clear` e mais
-- 📁 [**serasa-parser**](https://github.com/davisakai/serasa-parser) – Script para transformar arquivos massivos `.txt` em banco `.db` sem crashar
+- 📁 [**script-parser**](https://github.com/davisakai/serasa-parser) – Script para transformar arquivos massivos `.txt` em banco `.db` sem crashar
 - 📁 [**sqlite-helper**](https://github.com/davisakai/sqlite-helper) – Scripts úteis para lidar com grandes volumes de dados SQLite
 
 ---
