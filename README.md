@@ -1,41 +1,98 @@
-# 👋 Olá, eu sou o Davi Sakai
+<h1 align="center">👋 Fala aí, eu sou o Davi Sakai</h1>
+
+<p align="center">
+  Desenvolvedor web fullstack com foco em automação, bots e manipulação de dados em larga escala.
+</p>
 
 ---
 
-## 🧠 Sobre mim
+### 🚀 Sobre mim
 
-🎯 Desenvolvedor web fullstack com 4 anos de experiência prática em automação, bots e manipulação de dados em larga escala.
-
-🛠️ Especialista em:
-- PHP
-- JavaScript
-- Node.js
-- HTML5 / CSS3
-- Bootstrap
-- Linux
-- SQLite / MySQL
-
-⚡ Código limpo, funcional e direto ao ponto. Sem enrolação — só resultado.
+Sou o Davi Sakai, um desenvolvedor que começou na programação aos 14 anos e desde então nunca mais largou o teclado. Curioso por natureza e fissurado em resolver problemas de forma criativa — gosto de meter a mão no código e ver as coisas ganharem vida.
 
 ---
 
-## 🔧 Tecnologias
+### 🧠 Habilidades
 
-| PHP | JavaScript | Node.js | HTML5 | CSS3 | Bootstrap | Linux | SQLite | MySQL |
-|-----|------------|---------|-------|------|-----------|--------|--------|-------|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
----
-
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davixyzz&theme=radical&layout=default)
+- Linguagens: **JavaScript**, **PHP**, **Node.js**, **Python**, **HTML**, **CSS**, **SQL**
+- Frameworks/Bibliotecas: **Express.js**, **Baileys**, **Pandas**, **Django**, **EJS**
+- Ferramentas e Extras: **SQLite**, **Linux**, **7zip**, **Git**, **APIs REST**, **Web scraping**, **Manipulação de arquivos grandes**
+- Criação de **bots para WhatsApp**, automações e integrações com banco de dados
 
 ---
 
-## 📫 Contato
+### 💻 Minha stack de tecnologia
 
-- 📧 Email: kakashispam7@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/davisakai)  
-- 📸 [Instagram](https://instagram.com/davi.xyzz)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,python,html,css,sqlite,linux,git)
 
+---
+
+### 📚 Interesses
+
+- 🛠️ **Desenvolvimento fullstack** (principalmente back-end)
+- 🤖 **Criação de bots** (WhatsApp, Telegram, Web)
+- 🧠 **Automação de processos** e tarefas repetitivas
+- 🗃️ **Manipulação de grandes volumes de dados** (.txt, .csv, .db)
+- 🧬 **Engenharia reversa de APIs**
+- 🔍 **Web scraping**
+- 📱 **Desenvolvimento mobile e apps**
+- 🌐 **Desenvolvimento de interfaces web**
+- 🧩 **Internet das Coisas (IoT)**
+- 🔐 **Cibersegurança e proteção de dados**
+- 🧪 **Exploração de vulnerabilidades em sistemas e redes**
+- 🛡️ **Análise de segurança em APIs e aplicações**
+- 🧰 **Criação de ferramentas próprias para devs e automações**
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davisakai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davisakai&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisakai&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 🏆 Troféus do GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davisakai&theme=tokyonight&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+### ✍️ Citação aleatória de dev
+
+> "Se funciona, tá feito. Se automatiza, tá zika." – *Davi Sakai*
+
+---
+
+### 📌 Repositórios em destaque
+
+- 📁 [**bot-whatsapp-baileys**](https://github.com/davisakai/bot-whatsapp-baileys) – Bot completo com comandos como `/cpf`, `/email1`, `/clear` e mais
+- 📁 [**serasa-parser**](https://github.com/davisakai/serasa-parser) – Script para transformar arquivos massivos `.txt` em banco `.db` sem crashar
+- 📁 [**sqlite-helper**](https://github.com/davisakai/sqlite-helper) – Scripts úteis para lidar com grandes volumes de dados SQLite
+
+---
+
+### 🗓️ Contribuições nos últimos 12 meses
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=davisakai&theme=tokyo-night)](https://github.com/davisakai)
+
+---
+
+### 📫 Contato
+
+- 📧 Email: **davisakai@exemplo.com**
+- 🔗 Portfólio em breve...
+- 📱 WhatsApp: (somente pros bots kkk)
+
+---
+
+<p align="center">
+  Feito com código, café ☕ e aquela malandragem por <strong>Davi Sakai</strong> 😎
+</p>
