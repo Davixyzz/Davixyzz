@@ -88,9 +88,9 @@ Sou o Davi Sakai, um desenvolvedor que começou na programação aos 14 anos e d
 
 ### 📫 Contato
 
-- 📧 Email: **davisakai@exemplo.com**
+- 📧 Email: **davisakai555@gmil.com**
 - 🔗 Portfólio em breve...
-- 📱 WhatsApp: (somente pros bots kkk)
+- 📱 WhatsApp: davi.xyzz
 
 ---
 
