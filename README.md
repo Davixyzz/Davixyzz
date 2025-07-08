@@ -76,7 +76,7 @@ Sou o Davi Sakai, um desenvolvedor que começou na programação aos 14 anos e d
 ---
 
 ### 📌 Repositórios em destaque
-- 📁 [**script-parser**](https://github.com/davisakai/script-parser) – Script para transformar arquivos massivos `.txt` em banco `.db` sem crashar
+- 📁 [**script-parser**](https://github.com/davixyzz/script-parser) – Script para transformar arquivos massivos `.txt` em banco `.db` sem crashar
 
 ---
 
